@@ -1,7 +1,7 @@
 # assignment2-Nallavolu
 # Tejaswi Reddy Nallavolu
 ###### My favourite food is Chicken Biryani
-> As a matter of fact, i do love to taste all kinds of foods. However, if i have to choose one from the stereotype foods, **I love to eat chicken biryani.** It is the most popular dish of the place where I belong to.Chicken Biryani is prepared from basmati rice mixed with spices and chicken which adds flavour to the dish.
+As a matter of fact, i do love to taste all kinds of foods. However, if i have to choose one from the stereotype foods, **I love to eat chicken biryani.** It is the most popular dish of the place where I belong to.Chicken Biryani is prepared from basmati rice mixed with spices and chicken which adds flavour to the dish.
 
 ----
 
@@ -19,7 +19,7 @@
       * Make sure you don't burn the toppings.
 
 
-![click here to view about me](AboutMe.md)
+[click here to view about me](AboutMe.md)
 
 ---------
 
@@ -32,6 +32,13 @@ I recommend 3 places to be visited in India for a tourist in the time of Feb-May
 | Alleppey | 5 Days        | INR 10K          |
 | Goa      | 7 Days        | INR 20K          |
 | Gokarna  | 4 Days        | INR 15K          |
+
+--------
+
+# My favourite Quotes
+
+> The future belongs to those who believe in the beauty of their Dreams. -*Unknown*
+> It's during our darkest moments that we must focus on the light. -*Jason*
 
 
 
