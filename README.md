@@ -12,8 +12,8 @@ As a matter of fact, i do love to taste all kinds of foods. However, if i have t
     2. Put on the pizza sauce, cheese, and toppings.
 3. Put the pizza on the pizza stone in the oven.
 4. Bake for 30 minutes or until pizza is crispy and golden brown.
-5. Try putting the toppings on the pizza differently to make the pizza look cool!
-6. Enjoy your homemade pizza!!!    
+5. Try putting the toppings on the pizza differently to make the pizza look cool! [click here](images/pizza.jpg)
+6. Enjoy your homemade pizza!!! [click here](images/homemade.jpg)
 7. Things you should remember while preparing pizza:
     * Remember to put a pizza stone in the oven.
       * Make sure you don't burn the toppings.
