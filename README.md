@@ -30,7 +30,7 @@ I recommend 3 places to be visited in India for a tourist in the time of Feb-May
 | Location                 | Spending time | Expected expenses|
 |--------------            |---------------|------------------|
 | [Alleppey](images/ALLEPPEY.jpg) | 5 Days        | INR 10K          |
-|[Goa] (images/Goa.jpg)           | 7 Days        | INR 20K          |
+|[Goa](images/Goa.jpg)           | 7 Days        | INR 20K          |
 | [Gokarna](images/GOKARNA.jpg)  | 4 Days        | INR 15K          |
 
 --------
