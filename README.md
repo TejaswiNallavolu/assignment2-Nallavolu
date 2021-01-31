@@ -21,6 +21,21 @@
 
 ![click here to view about me](AboutMe.md)
 
+---------
+
+# Best places to visit & their cost of living
+
+I recommend 3 places to be visited in India for a tourist in the time of Feb-May. These are the perfect places for the people who wish peace & tranquility in their trips. Below is the table which illustrates the Location, number of days to be spend and the expenses.
+
+| Location | Spending time | Expected expenses|
+|----------|---------------|------------------|
+| Alleppey | 5 Days        | INR 10K          |
+| Goa      | 7 Days        | INR 20K          |
+| Gokarna  | 4 Days        | INR 15K          |
+
+
+
+
 
 
 
