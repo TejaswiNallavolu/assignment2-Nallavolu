@@ -41,9 +41,33 @@ I recommend 3 places to be visited in India for a tourist in the time of Feb-May
 
 > It's during our darkest moments that we must focus on the light. -*Jason*
 
+--------
+
+# Introduction to C
+> C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. 
+
+ Source:  <https://en.wikipedia.org/wiki/C_(programming_language)>
 
 
+```
+/* add.c
+     * a simple C program
+     */
+      
+    #include <stdio.h>
+    #define LAST 10
+      
+    int main()
+    {
+        int i, sum = 0;
+       
+        for ( i = 1; i <= LAST; i++ ) {
+          sum += i;
+        } /*-for-*/
+        printf("sum = %d\n", sum);
 
-
-
+        return 0;
+    }
+```
+Source: <http://www.cs.toronto.edu/~heap/270F02/node9.html>
 
